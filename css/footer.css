@@ -40,7 +40,7 @@ footer {
 }
 
 .footer-icons:hover .footer-icons__img {
-    animation: 1s incos-둥-둥;
+    animation: 1s icons-둥-둥;
 }
 
 .footer-icons__desc {
