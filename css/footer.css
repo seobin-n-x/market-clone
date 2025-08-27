@@ -23,7 +23,7 @@ footer {
     cursor: pointer;
 }
 
-@keyframes icons-둥-둥{
+@keyframes icons-movie{
     0%{
         transform: translateY(0px);
     }30% {
@@ -40,7 +40,7 @@ footer {
 }
 
 .footer-icons:hover .footer-icons__img {
-    animation: 1s icons-둥-둥;
+    animation: 1s icons-movie;
 }
 
 .footer-icons__desc {
